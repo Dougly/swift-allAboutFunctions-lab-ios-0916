@@ -18,7 +18,7 @@
 func frozen () {
     print("Let it go")
 }
-
+frozen()
 
 
 
@@ -34,7 +34,7 @@ func frozenAgain () {
     let sentence = "Let it go!"
     print(sentence)
 }
-
+frozenAgain()
 
 
 
